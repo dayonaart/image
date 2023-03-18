@@ -7,10 +7,10 @@ Image copyCrop(
   int x,
   int y,
   int w,
-  int h,
-  num radius,
-  bool antialias,
-) {
+  int h, {
+  num radius = 0,
+  bool antialias = true,
+}) {
   // Make sure crop rectangle is within the range of the src image.
   x = x.clamp(0, src.width - 1).toInt();
   y = y.clamp(0, src.height - 1).toInt();

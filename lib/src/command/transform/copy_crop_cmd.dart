@@ -23,7 +23,8 @@ class CopyCropCmd extends Command {
     await input?.execute();
     final img = input?.outputImage;
     outputImage = img != null
-        ? copyCrop(img, x, y, width, height, radius, antialias)
+        ? copyCrop(img, x, y, width, height,
+            radius: radius, antialias: antialias)
         : null;
   }
 }
