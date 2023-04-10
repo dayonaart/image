@@ -25,6 +25,7 @@ export 'src/draw/blend_mode.dart';
 export 'src/draw/composite_image.dart';
 export 'src/draw/draw_char.dart';
 export 'src/draw/draw_circle.dart';
+export 'src/draw/draw_image.dart';
 export 'src/draw/draw_line.dart';
 export 'src/draw/draw_pixel.dart';
 export 'src/draw/draw_polygon.dart';
