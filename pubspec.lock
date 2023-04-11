@@ -41,14 +41,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.11.0"
-  bazel_worker:
-    dependency: transitive
-    description:
-      name: bazel_worker
-      sha256: "500584fdb80bcb70a2990a5838338a757cc24bbf27d88bf791cbe9461c57cd5a"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.0.2"
   boolean_selector:
     dependency: transitive
     description:
@@ -81,14 +73,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.1.1"
-  build_modules:
-    dependency: transitive
-    description:
-      name: build_modules
-      sha256: d02a5b40720692c8c4c385741afb1cc50b53f192a33fa5da1f2bdaec3ec6db3e
-      url: "https://pub.dev"
-    source: hosted
-    version: "4.0.7"
   build_resolvers:
     dependency: transitive
     description:
@@ -121,14 +105,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.6"
-  build_web_compilers:
-    dependency: "direct dev"
-    description:
-      name: build_web_compilers
-      sha256: ee45348ba9c2dfd2e165c0adf69311970fa620c6669c345ab533e16d0d119e3d
-      url: "https://pub.dev"
-    source: hosted
-    version: "3.2.7"
   built_collection:
     dependency: transitive
     description:
@@ -257,14 +233,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.15.2"
-  http:
-    dependency: "direct dev"
-    description:
-      name: http
-      sha256: "6aa2946395183537c8b880962d935877325d6a09a2867c3970c05c0fed6ac482"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.13.5"
   http_multi_server:
     dependency: transitive
     description:
@@ -393,14 +361,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.5.1"
-  protobuf:
-    dependency: transitive
-    description:
-      name: protobuf
-      sha256: "01dd9bd0fa02548bf2ceee13545d4a0ec6046459d847b6b061d8a27237108a08"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.1.0"
   pub_semver:
     dependency: transitive
     description:
@@ -417,14 +377,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.2.2"
-  scratch_space:
-    dependency: transitive
-    description:
-      name: scratch_space
-      sha256: a469a9642a4d7ee406d6224a85446eb8baa9dd6d81e2f0b76770deae7bd32aab
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.0.1"
   shelf:
     dependency: transitive
     description:
@@ -597,10 +549,10 @@ packages:
     dependency: "direct main"
     description:
       name: xml
-      sha256: "979ee37d622dec6365e2efa4d906c37470995871fe9ae080d967e192d88286b5"
+      sha256: "80d494c09849dc3f899d227a78c30c5b949b985ededf884cb3f3bcd39f4b447a"
       url: "https://pub.dev"
     source: hosted
-    version: "6.2.2"
+    version: "5.4.1"
   yaml:
     dependency: transitive
     description:
